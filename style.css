@@ -1,0 +1,29 @@
+.gray{
+    width: 50%;
+    height: 400px;
+    background-color: gray;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 8px;
+}
+
+.green{
+    width: 400px;
+    height: 100px;
+    
+    background-color: green;
+    margin: auto;
+}
+.purple{
+    width: 400px;
+    height: 200px;
+    background-color: purple;
+    margin: auto;
+}
+.brown{
+    width: 400px;
+    height: 100px;
+    
+    background-color: brown;
+    margin: auto;
+}
